@@ -19,7 +19,7 @@ public class SearchString {
 					break;
 				}
 				if(j + 1 == pattern.length()){
-					System.out.println("Index found at " + i);
+					System.out.println("Pattern found at index" + i);
 				}
 			}
 		}
